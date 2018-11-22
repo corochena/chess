@@ -1,0 +1,55 @@
+#log {
+  margin-top: 2px;
+  font-family: monospace;
+  font-size: 120%;
+}
+
+.time {
+  background: lemonchiffon;
+  padding: 0px;
+  border: 1px black solid;
+  width: 180px;
+  height: 75px;
+  text-align: center;
+}
+
+.timeWhite {
+  position: fixed;
+  top: 531px
+}
+
+.cell-black {
+  background: maroon;
+}
+
+.cell-white {
+  background: lemonchiffon;
+}
+
+.pz-black {
+  color: black;
+}
+
+.pz-white {
+  color: darkgoldenrod;
+}
+
+td {
+  text-shadow: 2px 2px 3px slategray;
+  text-align: center;
+  width: 75px;
+  height: 75px;
+  padding: 0px;
+  font-size: 250%;
+}
+
+table {
+  width: 600px;
+  margin: auto;
+  border: 1px solid black
+}
+
+body {
+  margin: 6px;
+  background: slategray;
+}
